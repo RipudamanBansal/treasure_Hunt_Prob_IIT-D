@@ -6,13 +6,12 @@ A group of adventurers is on a treasure hunt with a map. The map has a 4-digit P
     +Y direction. In case the final location does not belong to any quadrant, print -1.
 
 # Sample Input:
- 3214
- 5:
- 3 20
- 1 40
- 2 10
- 4 40
- 2 40
+ 3214;
+ 3 20;
+ 1 40;
+ 2 10;
+ 4 40;
+ 2 40;
 
 # Sample Output:
 150
